@@ -1,0 +1,4 @@
+# stop MySQL service on your server. Now you should wait for 1 minute and and get an email with the subject.
+
+
+*/1 * * * * /root/mysqlfix.sh
